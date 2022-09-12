@@ -32,8 +32,8 @@ h2 {
   line-height: 24px;
   font-size: 15px;
   font-weight: 600;
-  color: #fa8d04; 
-  fill: #fa8d04;
+  color: rgb(3, 102, 214); 
+  fill: rgb(3, 102, 214);
 }
 
 #gh-dark-mode-only:target h2 {
