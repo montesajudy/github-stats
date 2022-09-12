@@ -38,7 +38,7 @@ th {
   text-align: left;
   font-size: 15px;
   font-weight: 600;
-  color: #fa8d04;
+  color: rgb(3, 102, 214);
 }
 
 #gh-dark-mode-only:target th {
